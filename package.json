@@ -1,0 +1,14 @@
+{
+  "name": "windicss-form-preflight-error",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "windicss:c": "windicss -to css/windi.cli-preflight+forms-plugin.css --config windi.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "windicss": "^3.1.7"
+  }
+}
